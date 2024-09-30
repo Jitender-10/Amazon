@@ -1,2 +1,2 @@
 # Amazon
-I made a interactive E-Commerce , Built using Javascript, HTML and CSS, NodeJS, it is fully interactive adjustable in different devices and fully functional.
+I made a interactive E-Commerce Amazon website , Built using Javascript, HTML, CSS and NodeJS, it is fully interactive adjustable in different devices and fully functional.
